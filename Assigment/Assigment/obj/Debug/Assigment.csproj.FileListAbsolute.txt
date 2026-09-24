@@ -1,0 +1,10 @@
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\bin\Debug\Assigment.exe.config
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.Form1.resources
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.Properties.Resources.resources
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\Pc\OneDrive\Links\Desktop\ca244\practicesss\Practicess\HOME_Assigment\Assigment\Assigment\Assigment\obj\Debug\Assigment.pdb
