@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\OneDrive\\Links\\Desktop\\HOTEL ROOM BOOKING\\TICKET BOOKING\\TICKET BOOKING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61C9594-1895-41C1-953D-8C80D5120671}|TICKET BOOKING\\TICKET BOOKING.csproj|c:\\users\\pc\\onedrive\\links\\desktop\\hotel room booking\\ticket booking\\ticket booking\\ticket booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C61C9594-1895-41C1-953D-8C80D5120671}|TICKET BOOKING\\TICKET BOOKING.csproj|solutionrelative:ticket booking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Links\\Desktop\\HOTEL ROOM BOOKING\\TICKET BOOKING\\TICKET BOOKING\\TICKET BOOKING\\Form1.cs",
+              "RelativeDocumentMoniker": "TICKET BOOKING\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Links\\Desktop\\HOTEL ROOM BOOKING\\TICKET BOOKING\\TICKET BOOKING\\TICKET BOOKING\\Form1.cs [Design]",
+              "RelativeToolTip": "TICKET BOOKING\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T17:36:27.126Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
